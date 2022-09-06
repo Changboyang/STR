@@ -22,4 +22,5 @@
 8. we conducted ablation experiments inside the TTR. We divide the input of TTR into 1, 2, 4, and 8 sub-fragments. **PA-MPJPE: 62.7 (Undivided) vs. 62.0 (2 fragments) vs.  61.6 (TTR:4 fragments) vs. 62.6 (8 fragments)**.
 
 ## Reconstruction results of invisible parts from alternative viewpoints
+![alternative viewpoints](../main/Alternate.png)
 
