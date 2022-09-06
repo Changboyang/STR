@@ -11,3 +11,5 @@ PA-MPJPE of 62.7(self) vs. 62.3(cross) vs. 61.6(ours).
 4. We investigate experiments where SENet replaces STE. PA-MPJPE: 62.5 (SENet) vs. 61.6 (STE).
 
 5. We investigate experiments on alternative ensemble strategies for common feature aggregation. PA-MPJPE: 62.6 (plain aggregate) vs. 61.6 (ours).
+
+6. We did a comparative experiment of related GRU and TTR. Experimental results PA-MPJPE: 62.0(GRU) vs. 61.6(TTR), Accel: 9.0(GRU) vs. 8.4(TTR).
