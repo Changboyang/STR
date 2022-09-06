@@ -24,3 +24,6 @@
 ## Reconstruction results of invisible parts from alternative viewpoints
 ![alternative viewpoints](../main/Alternate.png)
 
+## limitation
+![Limitation case](../main/fail.png)
+
