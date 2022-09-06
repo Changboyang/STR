@@ -1,6 +1,6 @@
 # Spatio-temporal-tendency-reasoning-for-human-body-pose-and-shape-estimation-from-videos
 
-## Qualitative videos
+## Qualitative Videos
 We present qualitative videos (video1, video2) with human scale variation.
 
 ## Related Experiments:
