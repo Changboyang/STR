@@ -26,4 +26,4 @@
 
 ## limitation
 ![Limitation case](../main/fail.png)
-
+Human truncation and large occlusion can cause our method to fail to reason about the correct spatio-temporal tendency.
