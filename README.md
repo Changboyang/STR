@@ -13,9 +13,10 @@
 
 ## STE:
 5. We investigate experiments where SENet replaces STE. **PA-MPJPE: 62.5 (SENet) vs. 61.6 (STE)**.
+6. In Time-domain Spatial Enhancement, we do it by replacing the convolutional feature difference with the original difference. **PA-MPJPE: 61.9 (original) vs. 61.6 (convolutional)**.
 
 
 ## TTR:
-6. We did a comparative experiment of related GRU and TTR. Experimental results **PA-MPJPE: 62.7(GRU) vs. 61.6(TTR), Accel: 9.0(GRU) vs. 8.4(TTR)**.
+7. We did a comparative experiment of related GRU and TTR. Experimental results **PA-MPJPE: 62.7(GRU) vs. 61.6(TTR), Accel: 9.0(GRU) vs. 8.4(TTR)**.
 
-7. we conducted ablation experiments inside the TTR. We divide the input of TTR into 1, 2, 4, and 8 sub-fragments. **PA-MPJPE: 62.7 (Undivided) vs. 62.0 (2 fragments) vs.  61.6 (TTR:4 fragments) vs. 62.6 (8 fragments)**.
+8. we conducted ablation experiments inside the TTR. We divide the input of TTR into 1, 2, 4, and 8 sub-fragments. **PA-MPJPE: 62.7 (Undivided) vs. 62.0 (2 fragments) vs.  61.6 (TTR:4 fragments) vs. 62.6 (8 fragments)**.
