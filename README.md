@@ -1,5 +1,6 @@
 # Spatio-temporal-tendency-reasoning-for-human-body-pose-and-shape-estimation-from-videos
 
+
 ## Related Experiments:
 1. Our method is tested on the crowded dataset 3DPW-Crowd. **MPJPE: 89.9(ours)vs.97.3(tcmr); PA-MPJPE: 60.8(ours)vs.62.3(tcmr); MPVPE: 113.5(ours)vs.125.1(tcmr)**.
 
@@ -26,4 +27,6 @@
 
 ## limitation
 ![Limitation case](../main/fail.png)
+
 Human truncation and large occlusion can cause our method to fail to reason about the correct spatio-temporal tendency.
+
