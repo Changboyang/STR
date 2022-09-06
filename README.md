@@ -1,7 +1,7 @@
 # Spatio-temporal-tendency-reasoning-for-human-body-pose-and-shape-estimation-from-videos
 
 ## Reply to the weakness of the paper
-[Reply](../main/weakness response.pdf)
+We will respond to the weaknesses of the paper () one by one.
 
 ## Qualitative Videos
 We present qualitative videos (video1, video2) with human scale variation.
