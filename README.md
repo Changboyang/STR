@@ -6,7 +6,7 @@ Coming soon...
 ## Qualitative Videos
 We present qualitative videos (video1, video2).
 
-## Alternative view
+## Alternate view
 ![Limitation case](../main/Alternate.png)
 
 ## limitation
