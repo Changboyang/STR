@@ -7,7 +7,7 @@ Coming soon...
 We present qualitative videos (video1, video2).
 
 ## Alternative view
-![Limitation case](../main/Alternative.png)
+![Limitation case](../main/Alternate.png)
 
 ## limitation
 ![Limitation case](../main/fail.png)
